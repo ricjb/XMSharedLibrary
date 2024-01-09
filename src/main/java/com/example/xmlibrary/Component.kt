@@ -13,7 +13,7 @@ fun XMButton() {
         onClick = {
             Toast.makeText(
                 context,
-                "Mensaje desde el componente compartido (1.2)",
+                "Mensaje desde el componente compartido (1.3)",
                 Toast.LENGTH_SHORT
             ).show()
         }
